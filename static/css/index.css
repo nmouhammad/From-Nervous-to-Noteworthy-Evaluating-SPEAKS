@@ -751,3 +751,22 @@ a:focus {
 
 
 
+.blockquote-at-a-glance {
+  margin: 1.5rem 0;
+  padding: 1rem 1rem 1rem 1.5rem;
+  border-left: 4px solid #CCC;
+  background-color: #f9f9f9;
+  color: #333333;
+  font-family: 'Inter', sans-serif;
+}
+
+
+.at-a-glance-header {
+  font-weight: bold;
+  font-size: large;
+  margin-bottom: 0.75rem;
+}
+
+.at-a-glance-content {
+  padding-left: 10px;
+}
